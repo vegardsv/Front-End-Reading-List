@@ -23,9 +23,9 @@
 10. Applicative Functors
 11. Transform Again, Naturally
 12. Traversing the Stone
-Appendix A: Essential Functions Support
-Appendix B: Algebraic Structures Support
-Appendix C: Pointfree Utilities
+- Appendix A: Essential Functions Support
+- Appendix B: Algebraic Structures Support
+- Appendix C: Pointfree Utilities
 
 ## [“Composing Software” series by Eric Elliot](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
 

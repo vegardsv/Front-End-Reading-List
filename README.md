@@ -55,3 +55,10 @@
 # Css
 
 ## [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/table-of-contents/) 
+1. Designing Systems
+2. Atomic Design Methodology
+3. Tools of the Trade
+4. The Atomic Workflow
+5. Maintaining Design Systems
+
+
